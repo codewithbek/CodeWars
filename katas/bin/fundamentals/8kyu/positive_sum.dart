@@ -8,3 +8,7 @@ int positiveSum(List<int> arr) {
   }
   return sum;
 }
+// Other way
+// int positiveSum(List<int> arr) {
+//   return arr.where((l) => l > 0).fold(0, (p, c) => p + c);
+// }
