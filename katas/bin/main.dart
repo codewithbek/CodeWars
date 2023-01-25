@@ -1,6 +1,6 @@
-import 'fundamentals/8kyu/positive_sum.dart';
-import 'fundamentals/8kyu/repeat_string.dart';
+
+import 'fundamentals/8kyu/square_sum.dart';
 
 void main(List<String> arguments) {
-  print(repeatString(6,'I'));
+  print(squareSum([1, 2, 2]));
 }
