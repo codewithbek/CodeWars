@@ -1,5 +1,5 @@
-import 'fundamentals/8kyu/find_differance.dart';
+import 'fundamentals/8kyu/better_than_average.dart';
 
 void main(List<String> arguments) {
-  print(findDifference([3,2,5], [4, 4, 1]));
+  print(betterThanAverage([29, 55, 74, 60, 11, 90, 67, 28], 21));
 }
