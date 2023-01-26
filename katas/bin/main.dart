@@ -1,7 +1,5 @@
-
-import 'fundamentals/8kyu/past.dart';
-import 'fundamentals/8kyu/square_sum.dart';
+import 'fundamentals/8kyu/find_differance.dart';
 
 void main(List<String> arguments) {
-  print(past(0, 1, 1));
+  print(findDifference([3,2,5], [4, 4, 1]));
 }
