@@ -1,6 +1,6 @@
 
-import 'strings/8kyu/no_space.dart';
+import 'fundamentals/8kyu/odd_count.dart';
 
 void main(List<String> arguments) {
-  print(noSpace('8 j 8   mBliB8g  imjB8B8  jl  B'));
+  print(oddCount(15));
 }
